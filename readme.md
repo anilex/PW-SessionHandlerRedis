@@ -1,6 +1,6 @@
 SessionHandlerRedis
 ===================
-
+## This is work in progress
 PHP Session Handler module for ProcessWire that uses Redis as the back-end storage engine.
 
 
